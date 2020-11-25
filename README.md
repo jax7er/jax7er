@@ -1,5 +1,11 @@
 ### Hi, I'm Jack 👋
 
+Check out some of my coding projects:
+- [GitHub Pages blog](https://jax7er.github.io) 
+- [Google Hash Code](https://github.com/jax7er/GoogleHashCodePractise)
+- [Python Morsels from Trey Hunner](https://github.com/jax7er/PythonMorsels)
+- [Weekly Python Exercise from Reuven M. Lerner](https://github.com/jax7er/reuven-m-lerner-weekly-python)
+
 <!--
 **jax7er/jax7er** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
