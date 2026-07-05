@@ -9,9 +9,7 @@ Check out some of my coding projects on GitHub:
 
 Find me elsewhere on the web:
 - [LinkedIn](https://www.linkedin.com/in/jackmehmet)
-- [GitHub Pages blog](https://jax7er.github.io)
-- [PyBites Profile](https://codechalleng.es/profiles/jax7er)
-- [Python Morsels Profile](https://www.pythonmorsels.com/profile/baba8bfbcf4f4a2eaa4d985ceddef191)
+- [Online CV](https://jax7er.github.io)
 <!--
 **jax7er/jax7er** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
